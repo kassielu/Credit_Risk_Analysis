@@ -1,10 +1,9 @@
 # Credit_Risk_Analysis
 
 ## Overview of the analysis: 
-In this module we'll be using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, to oversample the data using 6 different michine learning models to predict credit risk. 
+In this module we'll be using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, to predict credit risk using 6 different michine learning models in Python. 
 
 ## Results: 
-The below images shows the results of each model:
 - Naive Random Oversampling - With a 66% accuracy score, a low precison of 1%, a relatively high Sensitivity score of 74% and a low f1 score of .02. This is a more aggressive model, as they do a good job of detecting the intended targets, but also risk resulting in a number of false positives for the high risk loans.
 ![Naive Random Oversampling](images/Naive_Random_Oversampling.png)
 - SMOTE Oversampling - A slightly lower accuracy score of 65%, a low precision score of 1%, a even lower Sensitivity score of 62% and the same f1 score of .02.  
