@@ -1,4 +1,4 @@
-# Credit_Risk_Analysis
+# Credit Risk Analysis
 
 ## Overview of the analysis: 
 In this module we'll be using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, to predict credit risk using 6 different michine learning models in Python. 
